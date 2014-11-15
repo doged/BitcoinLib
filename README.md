@@ -1,5 +1,4 @@
-BitcoinLib 
-forked from George Kimionis' BitcoinLib
+BitcoinLib  (forked from George Kimionis' BitcoinLib)
 ==========
 
 **C# Bitcoin, Litecoin, DogecoinDark and Bitcoin-Clones Library & RPC Wrapper**
