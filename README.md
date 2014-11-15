@@ -41,7 +41,7 @@ Instructions for Bitcoin
 - You're good to go.
 
 
-Instructions for DogecoinDark and other Altcoins"
+Instructions for DogecoinDark and other Altcoins
 --------------------------------------------------
 
 - Perform the same steps as those mentioned above for Bitcoin.
